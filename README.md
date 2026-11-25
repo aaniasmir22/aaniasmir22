@@ -144,12 +144,7 @@ flowchart LR
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaniasmir22&bg_color=05030f&color=00e5ff&line=ff2bd6&point=ffffff&area=true&area_color=7a3cff&hide_border=true" width="95%"/>
 
-### 🐍 snake.exe is eating my commits
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/output/github-snake-dark.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/output/github-snake-dark.svg"/>
-</picture>
 
 <img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/divider.svg" width="100%"/>
 
