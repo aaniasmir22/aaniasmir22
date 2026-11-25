@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Greetings.+Allow+me+to+introduce+myself.;I+am+Jarvis.+(Aania+built+me.);rule+30+%7C+photoacoustics+%7C+cultural+archives;serve+%2F+protect+%2F+silent+%E2%9C%A6;tech+for+good.+ethics+first.+always." alt="typing"/>
 
 ![visitors](https://komarev.com/ghpvc/?username=aaniasmir22&color=ff2bd6&style=for-the-badge&label=VISITORS)
-![followers](https://img.shields.io/github/followers/aaniasmir22?style=for-the-badge&color=7a3cff&labelColor=05030f)
 ![stars](https://img.shields.io/github/stars/aaniasmir22?style=for-the-badge&color=00e5ff&labelColor=05030f)
 
 <img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/divider.svg" width="100%"/>
@@ -24,7 +23,7 @@
 
 ### ✦ OPEN A WINDOW ✦
 
-<a href="#-rule-30--my-favourite-thing-in-the-universe"><img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/win-research.svg" width="32%"/></a>
+<a href="#-rule-137 and 193"><img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/win-research.svg" width="32%"/></a>
 <a href="https://safardarwatan.omeka.net/"><img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/win-heritage.svg" width="32%"/></a>
 <a href="#-jarvis-display--voice-controlled-cyberdeck"><img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/win-jarvis.svg" width="32%"/></a>
 
@@ -32,9 +31,8 @@
 
 <img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/divider.svg" width="100%"/>
 
-## 🧬 Rule 30 : my favourite thing in the universe
-
-I researched **periodicity in the vertical centre columns of cellular automata** in the **Wolfram High School Summer Research Program**, and my computational essay became a **Wolfram Community staff pick**. This is Rule 30 growing from one cell:
+## 🧬 Rule 137 and 193 
+I researched **periodicity in the vertical centre columns of cellular automata** in the **Wolfram High School Summer Research Program**. This is Rule 30 growing from one cell:
 
 ```text
 ····················█····················
@@ -61,7 +59,7 @@ I researched **periodicity in the vertical centre columns of cellular automata**
 
 - Rule 30's centre column passes randomness tests, yet comes from a **one-line deterministic rule**.
 - My project asked whether hidden periodic structure shows up in the centre columns across rules.
-- Now continuing in the **Wolfram Emerging Leaders Program**: a computational essay on the **physics and modelling of photoacoustic imaging**, in Wolfram Language.
+- This project led to my selection in the **Wolfram Emerging Leaders Program**. Currently working on a computational essay on the **physics and modelling of photoacoustic imaging**, in Wolfram Language.
 
 ```wolfram
 ArrayPlot[CellularAutomaton[30, {{1}, 0}, 100]]
@@ -100,9 +98,7 @@ flowchart LR
 <br/>
 
 - Founded a **multimedia digital archive** (Omeka.net) and a **podcast** of Kashmiri voices
-- Directed and edited two documentaries: *Gyavun: Echoes of the Valley* (17K+ views) and *Etchings in Stone*
-- Led an architectural walking tour reaching 900+ people
-- Research lens: consent, community and the psychology of preservation
+- Reached 50K+ people across 10+ countries
 
 [🌐 Archive](https://safardarwatan.omeka.net/) · [🎙️ Podcast](https://open.spotify.com/show/7mAIw2bOGrkhVEfROZoXq4) · [▶️ YouTube](https://youtube.com/@safardarwatan22)
 
@@ -112,7 +108,7 @@ flowchart LR
 <summary><b>▸ open datascope.exe : privacy for under-18s</b></summary>
 <br/>
 
-- Co-founded an initiative on how websites collect and use data, with a focus on young users
+- Founded an initiative on how websites collect and use data, with a focus on young users
 - Surveyed **118 people** on privacy awareness and tracking concerns
 
 </details>
@@ -135,9 +131,7 @@ flowchart LR
 | 1 | 2 | 3 | 4 |
 |:-:|:-:|:-:|:-:|
 | 🐍 **Python** | ⚡ **Arduino** | 🔶 **Wolfram Language** | 🌐 **HTML/CSS** |
-| 🐳 **Docker** | 🌿 **Git** | 📊 **Google Sheets** | 🗃️ **Omeka** |
-
-> **mood:** ✦ cyber angel &nbsp;|&nbsp; **now playing:** my own podcast (yes, really) &nbsp;|&nbsp; **status:** building
+| 🐳 **Docker** | 🌿 **Git** | 📊 **C++** | 🗃️ **Omeka** |
 
 <div align="center">
 
@@ -158,12 +152,6 @@ flowchart LR
 </picture>
 
 <img src="https://raw.githubusercontent.com/aaniasmir22/aaniasmir22/main/assets/divider.svg" width="100%"/>
-
-### 🏆 ACHIEVEMENTS UNLOCKED
-
-🥇 1 of 70 students worldwide, Wolfram Summer Research Program &nbsp;·&nbsp; 🔬 Wolfram Emerging Leaders invite<br/>
-🏆 1st place, Mental Wellness App (Appify Tech Week '24) &nbsp;·&nbsp; 🎤 Best Delegate, UNCSW at YALE MUN × GD Goenka<br/>
-🎬 17K+ views on a Kashmiri music documentary &nbsp;·&nbsp; 🌍 Technical developer, Student Internet Governance Forum
 
 <br/>
 
